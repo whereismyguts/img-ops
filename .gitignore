@@ -1,0 +1,4 @@
+.env
+prod/
+__pycache__/
+app/data/cache/
